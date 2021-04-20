@@ -25,7 +25,7 @@ public final class TestConstants {
      * The IP for an unspecified host.
      */
     @SuppressWarnings("PMD.AvoidUsingHardCodedIP")
-    public static final String UNSPECIFIED_HOST = "0.0.0.0";
+    public static final String LOCALHOST = "localhost";
 
     /**
      * Creates a new TestConstants object.
