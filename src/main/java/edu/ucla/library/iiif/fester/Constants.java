@@ -295,18 +295,6 @@ public final class Constants {
     public static final String DEFAULT_AV_STRING = "mp4";
 
     /**
-     * The default thumbnail for audio content.
-     */
-    public static final String UCLA_AUDIO_THUMBNAIL =
-            "https://prod-uclalibrary-resources.s3-us-west-2.amazonaws.com/audio_icon.svg";
-
-    /**
-     * The default thumbnail for video content.
-     */
-    public static final String UCLA_VIDEO_THUMBNAIL =
-            "https://prod-uclalibrary-resources.s3-us-west-2.amazonaws.com/video_icon.svg";
-
-    /**
      * Private constructor for Constants class.
      */
     private Constants() {
