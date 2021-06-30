@@ -95,7 +95,7 @@
 
     <!-- Versions of tools used for testing -->
     <jsoup.version>1.13.1</jsoup.version>
-    <aws.sdk.version>1.11.962</aws.sdk.version>
+    <aws.sdk.version>1.12.1</aws.sdk.version>
     <testcontainers.version>1.15.1</testcontainers.version>
     <jcip.annotations.version>1.0-1</jcip.annotations.version>
 
